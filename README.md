@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhyash09
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning flutter.
+## Hello 👋, I’m Yash Dhrangdhariya.
+### Mobile App Developer
+- 👀 I’m currently learning & working on Flutter.
 - 📫 How to reach me on yashdhrangdhariya11@gmail.com
